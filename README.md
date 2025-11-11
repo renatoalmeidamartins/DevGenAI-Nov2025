@@ -46,3 +46,4 @@
 - [Some vector database options in AWS](https://aws.amazon.com/what-is/vector-databases/)
 - [High level view of vector datastores in genAI](https://aws.amazon.com/blogs/database/the-role-of-vector-datastores-in-generative-ai-applications/)
 - [S3 vectors as a data store](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+- [Customizing the queries to bedrock knowledge bases](https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-custom-prompts-for-the-retrieveandgenerate-api-and-configuration-of-the-maximum-number-of-retrieved-results/)
