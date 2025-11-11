@@ -10,4 +10,4 @@
 - [Skill builder subscriptions](https://skillbuilder.aws/subscriptions)
 
 ## Day 1 - class links
-
+- [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
