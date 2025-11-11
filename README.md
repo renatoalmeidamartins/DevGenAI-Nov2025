@@ -22,3 +22,7 @@
 - [Some model (Anthropic, for example) might require you to submit a use case details](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html)
 - [Features supported by model](https://docs.aws.amazon.com/bedrock/latest/userguide/models-features.html)
 - [Ways to deploy custom models](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
+- [Bedrock API](https://docs.aws.amazon.com/cli/latest/reference/bedrock/)
+- [Bedrock runtime API](https://docs.aws.amazon.com/cli/latest/reference/bedrock-runtime/)
+- [API keys introduced in Bedrock in July 2025](aws.amazon.com/blogs/machine-learning/accelerate-ai-development-with-amazon-bedrock-api-keys/)
+- [Inference request parameters and response fields for foundation models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-parameters.html)
