@@ -16,3 +16,4 @@
 - [Transformer architecture in Artificial intelligence](aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
 - [Attention is all you need, paper with the foundations of transformer architecture](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 - [Spatial transformer networks](https://arxiv.org/pdf/1506.02025)
+- [Sagemaker studio lab, no paying account required to experiment with most of the Sagemaker AI features](https://studiolab.sagemaker.aws/)
