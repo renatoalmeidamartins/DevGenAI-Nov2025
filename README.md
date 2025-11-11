@@ -11,3 +11,5 @@
 
 ## Day 1 - class links
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- [AI Winter](https://en.wikipedia.org/wiki/AI_winter)
+- [Sagemaker built-in algorithms](docs.aws.amazon.com/sagemaker/latest/dg/algos.html)
