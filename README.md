@@ -30,3 +30,4 @@
 - [Prompt design guide on AWS](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
 - [Implementing adavenced prompt engineering with bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
 - [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
+- [Prompting tips for the various model families](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
