@@ -21,6 +21,7 @@
 - [CountTokens API in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/count-tokens.html)
 - [Some model (Anthropic, for example) might require you to submit a use case details](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html)
 - [Features supported by model](https://docs.aws.amazon.com/bedrock/latest/userguide/models-features.html)
+- [Models supported](https://docs.aws.amazon.com/bedrock/latest/userguide/models-supported.html)
 - [Ways to deploy custom models](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
 - [Bedrock API](https://docs.aws.amazon.com/cli/latest/reference/bedrock/)
 - [Bedrock runtime API](https://docs.aws.amazon.com/cli/latest/reference/bedrock-runtime/)
@@ -40,3 +41,4 @@
 - [Creating an inference profile - multi-region invocation, thrpugh a single ARN](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-create.html)
 - [Batch inference in bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference-create.html)
 - [Using prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
+- [Document understanding is available in some models - doc for Nova](https://docs.aws.amazon.com/nova/latest/userguide/modalities-document.html)
