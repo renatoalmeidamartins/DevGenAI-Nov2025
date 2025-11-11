@@ -39,3 +39,4 @@
 - [Definition of provisioned throughput. Details of the actual capacity represented by each model's MU - model unit - is not documented anywhere](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
 - [Creating an inference profile - multi-region invocation, thrpugh a single ARN](https://docs.aws.amazon.com/bedrock/latest/userguide/inference-profiles-create.html)
 - [Batch inference in bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference-create.html)
+- [Using prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
