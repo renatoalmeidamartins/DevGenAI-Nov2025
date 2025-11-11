@@ -34,3 +34,5 @@
 - [Another interesting collection of prompting techniquers](https://www.promptingguide.ai/)
 - [OWASP for GenAI](https://genai.owasp.org/)
 - [OWASP top 10 for LLM in 2025](./LLMAll_en-US_FINAL.pdf)
+- [Blog article deploying LLM as a judge through bedrock evaluations](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
+- [Bedrock prompt management](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-management-is-now-available-in-ga/)
