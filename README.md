@@ -42,3 +42,7 @@
 - [Batch inference in bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/batch-inference-create.html)
 - [Using prompt caching](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-caching.html)
 - [Document understanding is available in some models - doc for Nova](https://docs.aws.amazon.com/nova/latest/userguide/modalities-document.html)
+- [Deep dive into vector stores for bedrock](https://aws.amazon.com/blogs/machine-learning/dive-deep-into-vector-data-stores-using-amazon-bedrock-knowledge-bases/)
+- [Some vector database options in AWS](https://aws.amazon.com/what-is/vector-databases/)
+- [High level view of vector datastores in genAI](https://aws.amazon.com/blogs/database/the-role-of-vector-datastores-in-generative-ai-applications/)
+- [S3 vectors as a data store](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
