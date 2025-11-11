@@ -32,3 +32,5 @@
 - [What is prompt engineering](https://aws.amazon.com/what-is/prompt-engineering/)
 - [Prompting tips for the various model families](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 - [Another interesting collection of prompting techniquers](https://www.promptingguide.ai/)
+- [OWASP for GenAI](https://genai.owasp.org/)
+- [OWASP top 10 for LLM in 2025](./LLMAll_en-US_FINAL.pdf)
