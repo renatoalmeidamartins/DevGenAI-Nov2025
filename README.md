@@ -36,3 +36,4 @@
 - [OWASP top 10 for LLM in 2025](./LLMAll_en-US_FINAL.pdf)
 - [Blog article deploying LLM as a judge through bedrock evaluations](https://aws.amazon.com/blogs/machine-learning/llm-as-a-judge-on-amazon-bedrock-model-evaluation/)
 - [Bedrock prompt management](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-prompt-management-is-now-available-in-ga/)
+- [Definition of provisioned throughput. Details of the actual capacity represented by each model's MU - model unit - is not documented anywhere](https://docs.aws.amazon.com/bedrock/latest/userguide/prov-throughput.html)
