@@ -20,3 +20,5 @@
 - [tiktoken, a reference library for counting tokens](https://github.com/openai/tiktoken)
 - [CountTokens API in Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/count-tokens.html)
 - [Some model (Anthropic, for example) might require you to submit a use case details](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html)
+- [Features supported by model](https://docs.aws.amazon.com/bedrock/latest/userguide/models-features.html)
+- [Ways to deploy custom models](https://docs.aws.amazon.com/bedrock/latest/userguide/custom-models.html)
