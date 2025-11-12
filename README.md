@@ -58,3 +58,4 @@
 - [RAG evaluation metrics baked into Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-evaluation-metrics.html)
 - [Bedrock data automation, taking RAG to the next level, extracting insights from non-textual content](https://aws.amazon.com/blogs/aws/get-insights-from-multimodal-content-with-amazon-bedrock-data-automation-now-generally-available/)
 - [Jailbreaking model tool](https://www.cyberark.com/resources/threat-research-blog/jailbreaking-every-llm-with-one-simple-click)
+- [Nova Act, an LLM that can automate the browser](https://github.com/aws/nova-act)
