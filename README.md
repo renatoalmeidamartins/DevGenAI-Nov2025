@@ -52,4 +52,6 @@
 - [IBM doc mentioning multiple LLM eval frameworks](https://www.ibm.com/think/topics/llm-benchmarks)
 - [Langchain docs](https://docs.langchain.com/)
 - [Evaluating text summarization capabilities from LLMs](https://aws.amazon.com/blogs/machine-learning/evaluate-the-text-summarization-capabilities-of-llms-for-enhanced-decision-making-on-aws/)
+- [Optimizing AI responsiveness: A practical guide to Amazon Bedrock latency-optimized inference](https://aws.amazon.com/blogs/machine-learning/optimizing-ai-responsiveness-a-practical-guide-to-amazon-bedrock-latency-optimized-inference/)
+- [Multi-LLM routing strategies for generative AI applications on AWS](https://aws.amazon.com/blogs/machine-learning/multi-llm-routing-strategies-for-generative-ai-applications-on-aws/)
 - 
