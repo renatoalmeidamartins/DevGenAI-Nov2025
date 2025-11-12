@@ -49,3 +49,7 @@
 - [Customizing the queries to bedrock knowledge bases](https://aws.amazon.com/blogs/machine-learning/knowledge-bases-for-amazon-bedrock-now-supports-custom-prompts-for-the-retrieveandgenerate-api-and-configuration-of-the-maximum-number-of-retrieved-results/)
 ## Day 2 links
 - [Using Dynamodb and langchain with bedrock for a bot with memory](https://aws.amazon.com/blogs/database/build-a-scalable-context-aware-chatbot-with-amazon-dynamodb-amazon-bedrock-and-langchain/)
+- [IBM doc mentioning multiple LLM eval frameworks](https://www.ibm.com/think/topics/llm-benchmarks)
+- [Langchain docs](https://docs.langchain.com/)
+- [Evaluating text summarization capabilities from LLMs](https://aws.amazon.com/blogs/machine-learning/evaluate-the-text-summarization-capabilities-of-llms-for-enhanced-decision-making-on-aws/)
+- 
